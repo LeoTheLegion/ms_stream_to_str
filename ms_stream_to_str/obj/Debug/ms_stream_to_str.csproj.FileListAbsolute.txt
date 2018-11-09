@@ -1,0 +1,7 @@
+c:\users\cel\source\repos\ms_stream_to_str\ms_stream_to_str\bin\Debug\ms_stream_to_str.exe.config
+c:\users\cel\source\repos\ms_stream_to_str\ms_stream_to_str\bin\Debug\ms_stream_to_str.exe
+c:\users\cel\source\repos\ms_stream_to_str\ms_stream_to_str\bin\Debug\ms_stream_to_str.pdb
+c:\users\cel\source\repos\ms_stream_to_str\ms_stream_to_str\obj\Debug\ms_stream_to_str.csprojAssemblyReference.cache
+c:\users\cel\source\repos\ms_stream_to_str\ms_stream_to_str\obj\Debug\ms_stream_to_str.csproj.CoreCompileInputs.cache
+c:\users\cel\source\repos\ms_stream_to_str\ms_stream_to_str\obj\Debug\ms_stream_to_str.exe
+c:\users\cel\source\repos\ms_stream_to_str\ms_stream_to_str\obj\Debug\ms_stream_to_str.pdb
