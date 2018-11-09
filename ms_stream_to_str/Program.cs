@@ -57,7 +57,7 @@ namespace ms_stream_to_str
                 }
             }
             Console.WriteLine(STR_text);
-            File.WriteAllText(path+"/newText.str", STR_text);
+            File.WriteAllText(path+"/newText.srt", STR_text);
         }
     }
 }
